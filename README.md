@@ -1,6 +1,6 @@
 
 <h1 align=center>
-  Electron + Vue 3 + Vite
+  Electron + Vue 3 + Vite - Demo
 </h1>
 
   electron+vite+vue3+electon-builder demo 这个模板应该有助于你开始在Vite和Electron中开发Vue 3。模板使用Vue 3`<script setup>`SFCs，请查看 [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) 和 <a href="https://www.electronjs.org/zh/docs/latest/">Electron docs</a> 来学习更多.   
