@@ -36,3 +36,14 @@ npm run dist
 npm run distall
 ```
 ![image](https://github.com/mzy-Electron/electron-vue3-vite/assets/37282073/27a7ca85-73da-436b-a117-38085b2a669e)
+
+## 安装应用包
+### window系统：
+这一层的这个带setup的exe执行文件是安装包，发给别人双击就能把我们的软件安装到对方电脑。win-unpacked文件夹，里面有一个electron-vue-basiccc.exe，这是直接运行的执行文件，双击直接运行软件。
+![image](https://github.com/mzy-Electron/electron-vue3-vite/assets/37282073/e4f3d6e8-0dcc-4f2b-838b-9543ca4de7ff)
+
+### macOS系统：
+可以看到electron_dist下有个.dmg包，双击直接运行软件即可安装
+![image](https://github.com/mzy-Electron/electron-vue3-vite/assets/37282073/5501f680-7b84-42a7-b282-bd1f71e387d2)
+
+
