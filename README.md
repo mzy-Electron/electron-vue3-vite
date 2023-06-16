@@ -35,3 +35,4 @@ npm run dist
 // 同时打包vue和electron，窗口加载的是打包后的 index.html页面
 npm run distall
 ```
+![image](https://github.com/mzy-Electron/electron-vue3-vite/assets/37282073/27a7ca85-73da-436b-a117-38085b2a669e)
