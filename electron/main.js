@@ -15,9 +15,9 @@ const createWindow = () => {
     }
   })
   // 加载 index.html
-  mainWindow.loadFile(indexHtml)
+  // mainWindow.loadFile(indexHtml)
   // 打开了一个远程URL
-  // mainWindow.loadURL('http://localhost:5173/')
+  mainWindow.loadURL('http://localhost:5173/')
 
   // 打开开发工具
   mainWindow.webContents.openDevTools()
